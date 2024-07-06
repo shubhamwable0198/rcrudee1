@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "id": "43a8",
+      "name": "Sanket ",
+      "datef": "1 - 12 - 2020",
+      "gender": "Male",
+      "class": "Python",
+      "coden": "12"
+    },
+    {
+      "id": "f102",
+      "name": "Ajinkya",
+      "datef": "1 - 12 - 2020",
+      "gender": "Male",
+      "class": "Html",
+      "coden": "13"
+    }
+  ]
+}
